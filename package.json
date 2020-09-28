@@ -36,10 +36,10 @@
     "webpack": "^3.5.1",
     "webpack-dev-server": "^2.7.1"
   },
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "lite-server"
+    "start": "lite-server"
   },
   "author": "",
   "description": ""
